@@ -1,5 +1,5 @@
 # Fatal_Police_Shootings_MySQL
-Analysis of Fatal Police Shootings in US from 2015 to 2017 with MySQL Workbench
+Analysis of Fatal Police Shootings in US from 2015 to 2017 using MySQL Workbench
 
 About the database:
 For the research project, I have selected a dataset from Kaggle about fatal police shootings in US over the course of three years, 2015, 2016 and 2017. The database contains five tables which are as follows:
@@ -10,7 +10,7 @@ For the research project, I have selected a dataset from Kaggle about fatal poli
 5.	Shareracebycity – Contains data about the percentage share of people belonging to different races grouped by cities in US.
 
 
-Insights:
+Insights driven from the analysis:
 1. State CA has maximum number of shootings of non-white population which is precisely 299. 
 2.	State AZ has the highest number of cities with high minority share percentage with Sacate Village CDP as the city having the highest percentage.
 3.	States TX, CA, MO are among the top 10 states having higher number of cities than other states where the percentage of people above 25 years of age who have completed high school is below the average percentage.
